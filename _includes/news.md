@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[22/07/2023]</strong> I gave a lecture on <a href="https://www.youtube.com/watch?v=pOYEo2Gtw-c">AI for Transportation</a> at the virtual <a href="https://www.climatechange.ai">Climate Change AI</a> Summer School 2023.</li>
+<li><strong>[21/07/2023]</strong> I recently gave talks at MIT and NYU.</li>
 <li><strong>[27/01/2023]</strong> I recently gave talks at Harvard, USC, TU Berlin and the National Renewable Energy Laboratory (NREL).</li>
 <li><strong>[20/01/2023]</strong> One <a href="https://arxiv.org/abs/2111.10144">paper</a> accepted at AISTATS 2023.</li>
 <li><strong>[20/12/2022]</strong> I will be co-organizing the <a href="https://www.climatechange.ai/events/iclr2023">Tackling Climate Change with Machine Learning Workshop</a> at ICLR 2023. Check the website for our Call for Submissions and further information.</li>
