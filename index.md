@@ -4,20 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england">Microsoft Research New England</a>. I recently completed my PhD at the <a href="http://www.wisc.warwick.ac.uk/">University of Warwick</a> and <a href="https://wp.nyu.edu/ml4good/">New York University</a>, supervised by <a href="https://www.birmingham.ac.uk/staff/profiles/eps/jarvis-stephen.aspx">Stephen Jarvis</a> (U Birmingham), <a href="https://cs.nyu.edu/~neill/">Daniel Neill</a> (NYU) and <a href="https://hongkaiw.github.io/">Hongkai Wen</a> (U Warwick / Samsung AI). I was also an Enrichment student at the <a href="http://turing.ac.uk">Alan Turing Institute</a> and a Beyond Fellow at <a href="https://ai4eo.de/">TUM / DLR</a>. My research focuses on the representation of spatial phenomena in machine learning methods. Beyond that, I am interested in the application of these methods in urban environments and to tackle climate change. I hold a Bachelors degree in Economics from the <em>University of Freiburg (Germany)</em> and a Masters in Transportation from <em>Imperial College</em> and <em>University College London</em>.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/contact.md %}
