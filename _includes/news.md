@@ -9,7 +9,7 @@
 <li><strong>[24/10/2022]</strong> One <a href="https://arxiv.org/abs/2111.10144">paper</a> accepted to the <a href="https://www.climatechange.ai/events/neurips2022">Tackling Climate Change with Machine Learning Workshop</a> at NeurIPS 2022.</li>
 <li><strong>[07/07/2022]</strong> I will join <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england">Microsoft Research New England</a> as a postdoc in fall!</li>
   
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<a href="javascript:toggle_vis('newsmore')">Show more</a>
 <div id="newsmore" style="display:none"> 
   <li><strong>[14/06/2022]</strong> New <a href="https://arxiv.org/abs/2205.08886">preprint</a> out on GANs for geospatial point patterns.</li>
   <li><strong>[01/12/2021]</strong> Two papers [<a href="https://arxiv.org/abs/2201.11192">1</a>, <a href="https://arxiv.org/abs/2109.15044">2</a>] accepted at AAAI 2022.</li>
